@@ -1,5 +1,5 @@
 
-![](https://leetcard.jacoblin.cool/Armano?hide=ranking)
+
 
 <!---
 ArmanoMerdzic/ArmanoMerdzic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
