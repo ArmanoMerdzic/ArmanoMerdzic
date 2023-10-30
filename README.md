@@ -21,7 +21,7 @@ As a developer, I'm passionate about rolling up my sleeves and diving into code.
 
 ### What I'm Working On
 
-I'm currently in my third year of studies, and I have completed a diverse range of courses throughout my college career. I have participated in many competitions, seminars, and extracurricular activities. Most of my achievements can be seen on my LinkedIn profile.
+I'm currently in my fourth year of studies, and I have completed a diverse range of courses throughout my college career. I have participated in many competitions, seminars, and extracurricular activities. Most of my achievements can be seen on my LinkedIn profile.
 ### Keywords
 ` C++  C  C#  Java  Bash  Assembly  Node.js  React `
 ` Qt  WinForms  Swing  MaterialUI  HTML  CSS  .NET `
