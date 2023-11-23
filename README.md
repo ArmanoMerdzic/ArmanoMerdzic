@@ -25,7 +25,7 @@ I'm currently in my fourth year of studies, and I have completed a diverse range
 ### Keywords
 `C++  C  C#  Java JavaScript Bash  Assembly `
 `Qt  WinForms  WPF  Swing  Node.js  React MaterialUI  HTML5  CSS  .NET `
-`Hyperfine  GoogleTests  JUnit  Git `
+`Hyperfine  GoogleTests  JUnit  Postman  Sequlize  JWT  Git `
 `PostgreSQL  MySQL `
 `STL  Multithreading  OpenMP  SIMD  OpenSSL `
 `Data Structures  Algorithms  Problem Solving  LeetCode  Competitive Programming  Software Design  Testing  Object Oriented Programming `
