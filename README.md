@@ -24,7 +24,7 @@ As a developer, I'm passionate about rolling up my sleeves and diving into code.
 I'm currently in my fourth year of studies, and I have completed a diverse range of courses throughout my college career. I have participated in many competitions, seminars, and extracurricular activities. Most of my achievements can be seen on my LinkedIn profile.
 ### Keywords
 `C++  C  C#  Java JavaScript Bash  Assembly `
-`Qt  WinForms  WPF  Swing  Spring  Node.js  React  Angular  JWT  MaterialUI  HTML5  CSS `
+`Qt  WinForms  WPF  Swing  Spring  Pistache Node.js  React  Angular  JWT  MaterialUI  HTML5  CSS Docker Kubernetes `
 `Hyperfine  GoogleTests  JUnit Selenium Postman  Git `
 `PostgreSQL  MySQL  Sequlize  JPA `
 `STL  Multithreading  OpenMP  SIMD  OpenSSL `
