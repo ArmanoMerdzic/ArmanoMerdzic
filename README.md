@@ -15,7 +15,7 @@ As a developer, I'm passionate about rolling up my sleeves and diving into code.
     std::string hobbies = "Fishing, guitar playing, chess, book reading";
     std::string email = "armano.merdzic@gmail.com";
    
-    int age = 22;
+    int age = 23;
   };
 ```
 
