@@ -6,7 +6,7 @@
 
 ` SE Undergrad @ Faculty of Electrical Engineering, Banja Luka `
 
-As a developer, I'm passionate about rolling up my sleeves and diving into code. I thrive on analyzing the strengths and weaknesses of the programs I create and love solving complex problems with creative and efficient solutions. My goal is always to find ways to optimize and streamline systems to run more smoothly and effectively.
+Diving into code and exploring how to make things work better is something I genuinely enjoy. Every project is an opportunity to learn, improve, and find creative solutions to challenging problems. The focus is always on growth and understanding the process behind building efficient systems.
 ```c++
   struct AboutMe
   {
