@@ -4,7 +4,7 @@
 
 
 
-` SE Undergrad @ Faculty of Electrical Engineering, Banja Luka `
+` SWE Undergrad @ Faculty of Electrical Engineering, Banja Luka `
 
 Diving into code and exploring how to make things work better is something I genuinely enjoy. Every project is an opportunity to learn, improve, and find creative solutions to challenging problems. The focus is always on growth and understanding the process behind building efficient systems.
 ```c++
