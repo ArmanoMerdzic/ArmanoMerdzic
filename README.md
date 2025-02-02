@@ -4,7 +4,7 @@
 
 
 
-` SWE Undergrad @ Faculty of Electrical Engineering, Banja Luka `
+` SWE Graduate | Faculty of Electrical Engineering, Banja Luka `
 
 Diving into code and exploring how to make things work better is something I genuinely enjoy. Every project is an opportunity to learn, improve, and find creative solutions to challenging problems. The focus is always on growth and understanding the process behind building efficient systems.
 ```c++
@@ -21,7 +21,7 @@ Diving into code and exploring how to make things work better is something I gen
 
 ### What I'm Working On
 
-I'm currently in my fourth year of studies, and I have completed a diverse range of courses throughout my college career. I have participated in many competitions, seminars, and extracurricular activities. Most of my achievements can be seen on my LinkedIn profile.
+I have completed my studies and I am currently looking for opportunities as a C++ engineer, with a focus on algorithm optimization, parallelization, and writing clean, efficient code. I’m open to relocation and excited about the chance to collaborate with creative teams. Most of my achievements can be seen on my LinkedIn profile.
 ### Keywords
 `C++  C  C#  Java JavaScript Bash  Assembly `
 `Qt  WinForms  WPF  Swing  Spring  Pistache  Node.js  React  Angular  JWT  MaterialUI  Tailwind  HTML5  CSS  `
