@@ -4,9 +4,9 @@
 
 
 
-` SWE Graduate | Faculty of Electrical Engineering, Banja Luka `
+` Software Engineer | BSc in Electrical Engineering `
 
-Diving into code and exploring how to make things work better is something I genuinely enjoy. Every project is an opportunity to learn, improve, and find creative solutions to challenging problems. The focus is always on growth and understanding the process behind building efficient systems.
+Curious about tech, passionate about solving problems, and looking for opportunities to grow - preferably remote.
 ```c++
   struct AboutMe
   {
@@ -15,7 +15,7 @@ Diving into code and exploring how to make things work better is something I gen
     std::string hobbies = "Fishing, guitar playing, chess, book reading";
     std::string email = "armano.merdzic@gmail.com";
    
-    int age = 23;
+    int age = 24;
   };
 ```
 
