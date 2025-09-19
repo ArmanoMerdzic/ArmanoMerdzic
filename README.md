@@ -6,7 +6,7 @@
 
 ` Software Engineer | BSc in Electrical Engineering `
 
-Curious about tech, passionate about solving problems, and looking for opportunities to grow - preferably remote.
+I have completed my studies and I am currently looking for opportunities as a C++ engineer, with a focus on algorithm optimization, parallelization, and writing clean, efficient code. I’m open to relocation and excited about the chance to collaborate with creative teams. Most of my achievements can be seen on my LinkedIn profile.
 ```c++
   struct AboutMe
   {
@@ -18,10 +18,6 @@ Curious about tech, passionate about solving problems, and looking for opportuni
     int age = 24;
   };
 ```
-
-### What I'm Working On
-
-I have completed my studies and I am currently looking for opportunities as a C++ engineer, with a focus on algorithm optimization, parallelization, and writing clean, efficient code. I’m open to relocation and excited about the chance to collaborate with creative teams. Most of my achievements can be seen on my LinkedIn profile.
 ### Keywords
 `C++  C  C#  Java JavaScript Bash  Assembly `
 `Qt  WinForms  WPF  Swing  Spring  Pistache  Node.js  React  Angular  JWT  MaterialUI  Tailwind  HTML5  CSS  `
@@ -31,7 +27,7 @@ I have completed my studies and I am currently looking for opportunities as a C+
 `Data Structures  Algorithms  Problem Solving  LeetCode  Competitive Programming  Software Design  Testing  Object Oriented Programming `
 ### Let's Connect
 
-I'm always excited to take on new projects and connect with fellow professionals. If you're interested in working together or just want to chat, please don't hesitate to reach out.
+I'm always excited to take on new projects and connect with people. If you're interested in working together or just want to chat, please don't hesitate to reach out.
 
 
 [![Github Badge](https://img.shields.io/badge/-ArmanoMerdzic-grey?style=flat&logo=github&logoColor=white&link=https://github.com/-ArmanoMerdzic/)](https://www.github.com/-ArmanoMerdzic/) [![LinkedIn Badge](https://img.shields.io/badge/-ArmanoMerdzic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armanomerdzic/)](https://www.linkedin.com/in/armanomerdzic/) [![Instagram Badge](https://img.shields.io/badge/-manchi_o6o7-pink?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/manchi_o6o7/)](https://www.instagram.com/manchi_o6o7/)
