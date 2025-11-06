@@ -6,7 +6,7 @@
 
 ` Software Engineer | BSc in Electrical Engineering `
 
-I have completed my studies and I am currently looking for opportunities as a C++ engineer, with a focus on algorithm optimization, parallelization, and writing clean, efficient code. I’m open to relocation and excited about the chance to collaborate with creative teams. Most of my achievements can be seen on my LinkedIn profile.
+Just finished my studies and diving into C++ engineering. Working with Qt, APIs, and always aiming for clean code. I like solving problems and learning from great people. LinkedIn has more details.
 ```c++
   struct AboutMe
   {
@@ -25,7 +25,7 @@ I have completed my studies and I am currently looking for opportunities as a C+
 `PostgreSQL  MySQL  Sequlize  JPA `
 `STL  Multithreading  OpenMP  SIMD  OpenSSL `
 `Data Structures  Algorithms  Problem Solving  LeetCode  Competitive Programming  Software Design  Testing  Object Oriented Programming `
-### Let's Connect
+### Contact
 
 I'm always excited to take on new projects and connect with people. If you're interested in working together or just want to chat, please don't hesitate to reach out.
 
