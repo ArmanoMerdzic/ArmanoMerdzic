@@ -6,7 +6,8 @@
 
 ` Software Engineer | BSc in Electrical Engineering `
 
-Just finished my studies and diving into C++ engineering. Working with Qt, APIs, and always aiming for clean code. I like solving problems and learning from great people. LinkedIn has more details.
+C++ engineer who enjoys working on algorithms, performance and clean systems.
+I like building practical tools, exploring low-level concepts and keeping things simple and understandable.
 ```c++
   struct AboutMe
   {
@@ -27,7 +28,7 @@ Just finished my studies and diving into C++ engineering. Working with Qt, APIs,
 `Data Structures  Algorithms  Problem Solving  LeetCode  Competitive Programming  Software Design  Testing  Object Oriented Programming `
 ### Contact
 
-I'm always excited to take on new projects and connect with people. If you're interested in working together or just want to chat, please don't hesitate to reach out.
+If you're interested in working together or just want to chat, feel free to reach out.
 
 
 [![Github Badge](https://img.shields.io/badge/-ArmanoMerdzic-grey?style=flat&logo=github&logoColor=white&link=https://github.com/-ArmanoMerdzic/)](https://www.github.com/-ArmanoMerdzic/) [![LinkedIn Badge](https://img.shields.io/badge/-ArmanoMerdzic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armanomerdzic/)](https://www.linkedin.com/in/armanomerdzic/) [![Instagram Badge](https://img.shields.io/badge/-manchi_o6o7-pink?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/manchi_o6o7/)](https://www.instagram.com/manchi_o6o7/)
